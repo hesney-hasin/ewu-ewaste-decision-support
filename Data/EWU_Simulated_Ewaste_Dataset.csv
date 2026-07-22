@@ -1,0 +1,101 @@
+Item ID,Category,Department,Age (years),Condition,Weight (kg),Repair Cost (BDT),Replacement Cost (BDT),Hazardous Component,Recommended Action,Decision Rationale,Estimated CO2e Benefit (kg),Estimated Direct Saving (BDT)
+EWU-EW-001,Desktop Computer,Administration,8,Non-functional,9.75,41000,52700,No,Recycle,Not economical to repair; recoverable materials remain.,10.73,1170
+EWU-EW-002,Desktop Computer,Library,7,Non-functional,8.81,33400,50300,No,Recycle,Not economical to repair; recoverable materials remain.,9.69,1057
+EWU-EW-003,Desktop Computer,EEE Laboratory,6,Obsolete,9.39,40200,49300,No,Recycle,Not economical to repair; recoverable materials remain.,10.33,1126
+EWU-EW-004,Desktop Computer,Student Services,5,Minor Fault,8.57,7300,51700,No,Repair,Repair cost is below the 40% replacement-cost threshold.,18.85,44400
+EWU-EW-005,Desktop Computer,Student Services,6,Minor Fault,8.16,13000,53800,No,Repair,Repair cost is below the 40% replacement-cost threshold.,17.95,40800
+EWU-EW-006,Desktop Computer,EEE Laboratory,6,Minor Fault,10.75,16400,55400,No,Repair,Repair cost is below the 40% replacement-cost threshold.,23.65,39000
+EWU-EW-007,Desktop Computer,Administration,3,Good,7.4,0,51000,No,Reuse,Functional and suitable for reassignment after inspection.,22.2,35700
+EWU-EW-008,Desktop Computer,CSE Laboratory,7,Obsolete,8.67,32300,54800,No,Recycle,Not economical to repair; recoverable materials remain.,9.54,1040
+EWU-EW-009,Desktop Computer,Faculty Offices,3,Fair,6.13,0,53400,No,Reuse,Functional and suitable for reassignment after inspection.,18.39,37380
+EWU-EW-010,Desktop Computer,CSE Laboratory,4,Good,8.83,0,53700,No,Reuse,Functional and suitable for reassignment after inspection.,26.49,37590
+EWU-EW-011,Desktop Computer,Library,3,Good,9.88,0,47600,No,Reuse,Functional and suitable for reassignment after inspection.,29.64,33320
+EWU-EW-012,Desktop Computer,Faculty Offices,3,Fair,9.07,8100,62200,No,Repair,Repair cost is below the 40% replacement-cost threshold.,19.95,54100
+EWU-EW-013,Desktop Computer,Student Services,11,Major Fault,6.3,43300,58200,No,Recycle,Not economical to repair; recoverable materials remain.,6.93,756
+EWU-EW-014,Desktop Computer,IT Services,5,Minor Fault,8.85,18300,57800,No,Repair,Repair cost is below the 40% replacement-cost threshold.,19.47,39500
+EWU-EW-015,Desktop Computer,Administration,8,Unsafe,11.09,50100,52300,No,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",1.66,0
+EWU-EW-016,Desktop Computer,Student Services,5,Fair,8.42,0,56600,No,Reuse,Functional and suitable for reassignment after inspection.,25.26,39620
+EWU-EW-017,Desktop Computer,IT Services,6,Major Fault,8.15,44300,50700,No,Recycle,Not economical to repair; recoverable materials remain.,8.97,978
+EWU-EW-018,Desktop Computer,IT Services,7,Obsolete,10.47,39700,62600,No,Recycle,Not economical to repair; recoverable materials remain.,11.52,1256
+EWU-EW-019,Laptop,Library,2,Good,2.45,0,64000,No,Reuse,Functional and suitable for reassignment after inspection.,7.35,44800
+EWU-EW-020,Laptop,CSE Laboratory,3,Minor Fault,2.43,15600,80000,No,Repair,Repair cost is below the 40% replacement-cost threshold.,5.35,64400
+EWU-EW-021,Laptop,Faculty Offices,7,Non-functional,2.16,41900,59200,No,Recycle,Not economical to repair; recoverable materials remain.,2.38,259
+EWU-EW-022,Laptop,Student Services,9,Major Fault,1.85,47400,69900,No,Recycle,Not economical to repair; recoverable materials remain.,2.04,222
+EWU-EW-023,Laptop,IT Services,2,Fair,1.84,0,65700,No,Reuse,Functional and suitable for reassignment after inspection.,5.52,45990
+EWU-EW-024,Laptop,CSE Laboratory,7,Minor Fault,2.16,14200,74900,No,Repair,Repair cost is below the 40% replacement-cost threshold.,4.75,60700
+EWU-EW-025,Laptop,CSE Laboratory,10,Non-functional,1.95,42200,75500,No,Recycle,Not economical to repair; recoverable materials remain.,2.14,234
+EWU-EW-026,Laptop,Administration,5,Good,2.36,0,68000,No,Reuse,Functional and suitable for reassignment after inspection.,7.08,47600
+EWU-EW-027,Laptop,Student Services,7,Fair,2.08,14700,74400,No,Repair,Repair cost is below the 40% replacement-cost threshold.,4.58,59700
+EWU-EW-028,Laptop,IT Services,5,Damaged/Hazardous,2.49,66700,68100,No,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",0.37,0
+EWU-EW-029,Laptop,CSE Laboratory,5,Good,1.93,0,63400,No,Reuse,Functional and suitable for reassignment after inspection.,5.79,44380
+EWU-EW-030,Laptop,Administration,7,Major Fault,1.79,51300,67100,No,Recycle,Not economical to repair; recoverable materials remain.,1.97,214
+EWU-EW-031,Laptop,Library,4,Good,2.05,0,69300,No,Reuse,Functional and suitable for reassignment after inspection.,6.15,48510
+EWU-EW-032,Laptop,EEE Laboratory,6,Minor Fault,2.7,12300,66200,No,Repair,Repair cost is below the 40% replacement-cost threshold.,5.94,53900
+EWU-EW-033,Laptop,Student Services,11,Non-functional,2.09,41300,73300,No,Recycle,Not economical to repair; recoverable materials remain.,2.3,250
+EWU-EW-034,Monitor,Student Services,6,Minor Fault,5.14,6000,19100,No,Repair,Repair cost is below the 40% replacement-cost threshold.,11.31,13100
+EWU-EW-035,Monitor,EEE Laboratory,11,Leaking,4.99,13800,18600,Yes,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",0.75,0
+EWU-EW-036,Monitor,Student Services,3,Good,5.21,0,15600,No,Reuse,Functional and suitable for reassignment after inspection.,15.63,10920
+EWU-EW-037,Monitor,EEE Laboratory,10,Obsolete,5.83,13300,19200,Yes,Recycle,Not economical to repair; recoverable materials remain.,6.41,699
+EWU-EW-038,Monitor,Faculty Offices,11,Obsolete,6.12,12800,19800,Yes,Recycle,Not economical to repair; recoverable materials remain.,6.73,734
+EWU-EW-039,Monitor,Faculty Offices,7,Minor Fault,4.5,3300,17300,No,Repair,Repair cost is below the 40% replacement-cost threshold.,9.9,14000
+EWU-EW-040,Monitor,Administration,2,Good,5.79,0,19100,No,Reuse,Functional and suitable for reassignment after inspection.,17.37,13370
+EWU-EW-041,Monitor,EEE Laboratory,7,Minor Fault,5.33,3200,16200,No,Repair,Repair cost is below the 40% replacement-cost threshold.,11.73,13000
+EWU-EW-042,Monitor,CSE Laboratory,6,Minor Fault,6.45,3500,15900,No,Repair,Repair cost is below the 40% replacement-cost threshold.,14.19,12400
+EWU-EW-043,Monitor,Library,2,Good,5.55,0,17400,No,Reuse,Functional and suitable for reassignment after inspection.,16.65,12180
+EWU-EW-044,Monitor,CSE Laboratory,5,Leaking,5.82,16600,18700,Yes,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",0.87,0
+EWU-EW-045,Monitor,IT Services,5,Good,4.92,0,17000,No,Reuse,Functional and suitable for reassignment after inspection.,14.76,11900
+EWU-EW-046,Monitor,Faculty Offices,2,Good,6.31,0,16100,No,Reuse,Functional and suitable for reassignment after inspection.,18.93,11270
+EWU-EW-047,Monitor,EEE Laboratory,11,Obsolete,5.48,12300,15500,Yes,Recycle,Not economical to repair; recoverable materials remain.,6.03,657
+EWU-EW-048,Monitor,EEE Laboratory,4,Good,5.08,0,19300,No,Reuse,Functional and suitable for reassignment after inspection.,15.24,13510
+EWU-EW-049,Monitor,Student Services,6,Major Fault,4.32,13300,16200,Yes,Recycle,Not economical to repair; recoverable materials remain.,4.75,518
+EWU-EW-050,Keyboard,Library,5,Good,0.8,0,1300,No,Reuse,Functional and suitable for reassignment after inspection.,2.4,909
+EWU-EW-051,Keyboard,Faculty Offices,3,Good,0.49,0,1200,No,Reuse,Functional and suitable for reassignment after inspection.,1.47,840
+EWU-EW-052,Keyboard,Student Services,4,Fair,0.73,0,1200,No,Reuse,Functional and suitable for reassignment after inspection.,2.19,840
+EWU-EW-053,Keyboard,Faculty Offices,3,Fair,0.79,0,1400,No,Reuse,Functional and suitable for reassignment after inspection.,2.37,979
+EWU-EW-054,Keyboard,Student Services,3,Fair,0.73,400,1400,No,Repair,Repair cost is below the 40% replacement-cost threshold.,1.61,1000
+EWU-EW-055,Keyboard,EEE Laboratory,3,Good,0.66,0,1200,No,Reuse,Functional and suitable for reassignment after inspection.,1.98,840
+EWU-EW-056,Keyboard,Student Services,10,Non-functional,0.58,900,1100,No,Recycle,Not economical to repair; recoverable materials remain.,0.64,69
+EWU-EW-057,Keyboard,Faculty Offices,2,Fair,0.64,0,1200,No,Reuse,Functional and suitable for reassignment after inspection.,1.92,840
+EWU-EW-058,Keyboard,EEE Laboratory,7,Obsolete,0.64,600,1000,No,Recycle,Not economical to repair; recoverable materials remain.,0.7,76
+EWU-EW-059,Keyboard,Faculty Offices,6,Minor Fault,0.73,300,1100,No,Repair,Repair cost is below the 40% replacement-cost threshold.,1.61,800
+EWU-EW-060,Keyboard,Administration,6,Obsolete,0.67,1100,1200,No,Recycle,Not economical to repair; recoverable materials remain.,0.74,80
+EWU-EW-061,Keyboard,Faculty Offices,10,Major Fault,0.71,1200,1300,No,Recycle,Not economical to repair; recoverable materials remain.,0.78,85
+EWU-EW-062,Mouse,CSE Laboratory,6,Unsafe,0.14,600,700,No,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",0.02,0
+EWU-EW-063,Mouse,Faculty Offices,12,Major Fault,0.15,400,700,No,Recycle,Not economical to repair; recoverable materials remain.,0.16,18
+EWU-EW-064,Mouse,CSE Laboratory,6,Minor Fault,0.17,100,600,No,Repair,Repair cost is below the 40% replacement-cost threshold.,0.37,500
+EWU-EW-065,Mouse,Faculty Offices,3,Minor Fault,0.18,100,600,No,Repair,Repair cost is below the 40% replacement-cost threshold.,0.4,500
+EWU-EW-066,Mouse,EEE Laboratory,11,Obsolete,0.18,500,600,No,Recycle,Not economical to repair; recoverable materials remain.,0.2,21
+EWU-EW-067,Mouse,Student Services,5,Minor Fault,0.15,200,700,No,Repair,Repair cost is below the 40% replacement-cost threshold.,0.33,500
+EWU-EW-068,Mouse,CSE Laboratory,7,Major Fault,0.17,500,700,No,Recycle,Not economical to repair; recoverable materials remain.,0.19,20
+EWU-EW-069,Mouse,Library,12,Obsolete,0.16,600,800,No,Recycle,Not economical to repair; recoverable materials remain.,0.18,19
+EWU-EW-070,Mouse,CSE Laboratory,9,Damaged/Hazardous,0.14,600,800,No,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",0.02,0
+EWU-EW-071,Mouse,EEE Laboratory,10,Obsolete,0.16,600,700,No,Recycle,Not economical to repair; recoverable materials remain.,0.18,19
+EWU-EW-072,Printer,CSE Laboratory,4,Minor Fault,12.68,4300,23800,No,Repair,Repair cost is below the 40% replacement-cost threshold.,27.9,19500
+EWU-EW-073,Printer,Student Services,11,Obsolete,11.55,19100,26600,No,Recycle,Not economical to repair; recoverable materials remain.,12.71,1386
+EWU-EW-074,Printer,EEE Laboratory,7,Minor Fault,11.27,5800,24100,No,Repair,Repair cost is below the 40% replacement-cost threshold.,24.79,18300
+EWU-EW-075,Printer,Student Services,11,Leaking,11.48,22800,27300,No,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",1.72,0
+EWU-EW-076,Printer,Faculty Offices,8,Obsolete,10.98,16300,25500,No,Recycle,Not economical to repair; recoverable materials remain.,12.08,1317
+EWU-EW-077,Printer,Student Services,7,Obsolete,11.5,14300,21400,No,Recycle,Not economical to repair; recoverable materials remain.,12.65,1380
+EWU-EW-078,Printer,Library,5,Fair,9.55,4700,24900,No,Repair,Repair cost is below the 40% replacement-cost threshold.,21.01,20200
+EWU-EW-079,Printer,Faculty Offices,9,Unsafe,10.3,16900,22500,No,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",1.55,0
+EWU-EW-080,UPS,Faculty Offices,6,Obsolete,7.0,5900,8100,Yes,Recycle,Not economical to repair; recoverable materials remain.,7.7,840
+EWU-EW-081,UPS,Student Services,6,Non-functional,6.87,7900,9200,Yes,Recycle,Not economical to repair; recoverable materials remain.,7.56,824
+EWU-EW-082,UPS,Student Services,9,Major Fault,7.66,7500,8400,Yes,Recycle,Not economical to repair; recoverable materials remain.,8.43,919
+EWU-EW-083,UPS,Library,4,Minor Fault,9.1,1200,9200,No,Repair,Repair cost is below the 40% replacement-cost threshold.,20.02,8000
+EWU-EW-084,UPS,EEE Laboratory,5,Minor Fault,10.27,1400,9800,No,Repair,Repair cost is below the 40% replacement-cost threshold.,22.59,8400
+EWU-EW-085,UPS,EEE Laboratory,4,Good,6.82,0,8000,No,Reuse,Functional and suitable for reassignment after inspection.,20.46,5600
+EWU-EW-086,UPS,Administration,12,Non-functional,6.8,7500,8700,Yes,Recycle,Not economical to repair; recoverable materials remain.,7.48,816
+EWU-EW-087,Battery,Student Services,5,Good,2.69,0,4500,No,Reuse,Functional and suitable for reassignment after inspection.,8.07,3150
+EWU-EW-088,Battery,Administration,3,Good,2.45,0,4100,No,Reuse,Functional and suitable for reassignment after inspection.,7.35,2870
+EWU-EW-089,Battery,CSE Laboratory,5,Good,2.25,0,4500,No,Reuse,Functional and suitable for reassignment after inspection.,6.75,3150
+EWU-EW-090,Battery,IT Services,11,Major Fault,2.77,2600,4300,Yes,Recycle,Not economical to repair; recoverable materials remain.,3.05,332
+EWU-EW-091,Battery,Student Services,7,Leaking,2.1,4700,4700,Yes,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",0.32,0
+EWU-EW-092,Battery,IT Services,9,Obsolete,3.09,2900,4600,Yes,Recycle,Not economical to repair; recoverable materials remain.,3.4,370
+EWU-EW-093,Battery,Faculty Offices,7,Non-functional,2.37,4600,5400,Yes,Recycle,Not economical to repair; recoverable materials remain.,2.61,284
+EWU-EW-094,Battery,EEE Laboratory,8,Obsolete,2.41,2700,4500,Yes,Recycle,Not economical to repair; recoverable materials remain.,2.65,289
+EWU-EW-095,Mobile Device,Library,5,Good,0.2,0,26000,No,Reuse,Functional and suitable for reassignment after inspection.,0.6,18200
+EWU-EW-096,Mobile Device,Faculty Offices,7,Major Fault,0.22,15200,23800,Yes,Recycle,Not economical to repair; recoverable materials remain.,0.24,26
+EWU-EW-097,Mobile Device,CSE Laboratory,8,Major Fault,0.14,15700,23400,Yes,Recycle,Not economical to repair; recoverable materials remain.,0.15,16
+EWU-EW-098,Mobile Device,CSE Laboratory,3,Good,0.21,0,23800,No,Reuse,Functional and suitable for reassignment after inspection.,0.63,16660
+EWU-EW-099,Network Device,Library,5,Leaking,1.59,8600,9000,No,Safe Disposal,"Hazardous, leaking, or unsafe item requiring controlled handling.",0.24,0
+EWU-EW-100,Network Device,EEE Laboratory,6,Fair,1.57,1900,7700,No,Repair,Repair cost is below the 40% replacement-cost threshold.,3.45,5800
